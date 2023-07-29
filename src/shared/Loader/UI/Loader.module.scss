@@ -1,0 +1,13 @@
+@import '../../../styles/globals.scss';
+
+.loader {
+  padding: 5% 0;
+  text-align: center;
+  font-size: 23px;
+  font-family: 'Roboto', sans-serif;
+  color: $gray-color;
+  height: 469px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}

@@ -1,0 +1,25 @@
+@import '../../../styles/globals.scss';
+
+.navbarWrapper {
+  background-color: $yellow-color;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+}
+.navbarItems {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 20px;
+
+  li {
+    border-bottom: 1px solid transparent;
+    span {
+      color: black;
+    }
+    :hover {
+      border-bottom: 1px solid black;
+    }
+  }
+}

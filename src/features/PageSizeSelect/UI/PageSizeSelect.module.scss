@@ -1,0 +1,23 @@
+.PageSizeSelect {
+  p {
+    font-size: 18px;
+    color: #fff;
+  }
+  select {
+    font-size: 18px;
+    padding: 5px 15px;
+    margin: 4% 4%;
+    margin-bottom: 0;
+    cursor: pointer;
+  }
+}
+
+//========================================Adaptive==================================================//
+
+.PageSizeSelect {
+  p {
+    @media (max-width: 576px) {
+      margin: 10px 0 10px 0 !important;
+    }
+  }
+}
