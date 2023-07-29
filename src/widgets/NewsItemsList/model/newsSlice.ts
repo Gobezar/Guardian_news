@@ -67,10 +67,3 @@ const NewsSlice = createSlice({
 
 export const { incrementPage, removeNews } = NewsSlice.actions
 export default NewsSlice.reducer
-
-// action.payload.forEach((newItem: INews) => {
-//   const existingItem = state.news.find((item) => item.id === newItem.id)
-//   if (!existingItem) {
-//     state.news.push(newItem)
-//   }
-// })
