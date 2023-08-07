@@ -1,3 +1,13 @@
+Пет-проект Guardian-news. 
+Написано на Next-JS + Redux Toolkit
+
+
+https://github.com/Gobezar/Guardian_news/assets/105110053/1e5cc68c-7201-47eb-8aa1-dff43e96c0d0
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
